@@ -1,7 +1,7 @@
 heroku-buildpack-graphicsmagick
 ===============================
 
-Use the GraphicsMagick (1.3.30) inside Heroku. Works with [`heroku-18`](https://devcenter.heroku.com/articles/heroku-18-stack).
+Use GraphicsMagick (1.3.33) on Heroku. Works with [`heroku-18`](https://devcenter.heroku.com/articles/heroku-18-stack).
 
 ## Usage
 
@@ -46,4 +46,4 @@ zlib1g-dev
 The next time you push your application it should install graphicsmagick before
 your application buildpack.
 
-For more info see [Using multiple buildpacks for an app](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app)
+For more info see [Using multiple buildpacks for an app](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app).
